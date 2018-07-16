@@ -1,7 +1,8 @@
 ---
 lang: ar
 title: كيف تساهم في المصادر المفتوحة
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+description: ترغب بالمساهمة بالمصادر المفتوحة؟ دليلك للمساهمات مفتوحة المصدر، للمبتدئين والخبراء
+Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
 class: contribute
 toc:
   why-contribute-to-open-source: "Why contribute to open source?"
@@ -32,14 +33,17 @@ Contributing to open source can be a rewarding way to learn, teach, and build ex
 Why do people contribute to open source? Plenty of reasons!
 
 ### Improve existing skills
+### تحسين المهارات
 
 Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
 
 ### Meet people who are interested in similar things
+### التقِ بأشخاص لديهم نفس اهتماماتك
 
 Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
 
 ### Find mentors and teach others
+### ابحث عن مُعلم و علّم الآخرين
 
 Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
@@ -48,10 +52,12 @@ Working with others on a shared project means you'll have to explain how you do 
 By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
 
 ### Learn people skills
+### تعلّم مهارات الآخرين
 
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
 ### It's empowering to be able to make changes, even small ones
+
 
 You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
@@ -436,6 +442,7 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
 ### Gathering context
+### فهم السياق
 
 Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
 
@@ -458,6 +465,7 @@ If you want to make a substantial contribution, open an issue to ask before work
 </aside>
 
 ### Opening an issue
+### فتح مشكلة
 
 You should usually open an issue in the following situations:
 
@@ -466,12 +474,14 @@ You should usually open an issue in the following situations:
 * Propose a new feature or other project idea
 
 Tips for communicating on issues:
+نصائح للتواصل بخصوص مشكلة
 
 * **If you see an open issue that you want to tackle,** comment on the issue to let people know you're on it. That way, people are less likely to duplicate your work.
 * **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
 ### Opening a pull request
+### فتح طلب قبول
 
 You should usually open a pull request in the following situations:
 
@@ -492,12 +502,13 @@ If the project is on GitHub, here's how to submit a pull request:
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
 
 ## What happens after you submit a contribution
+## ماذا بعد تقدمك بمساهمة
 
 You did it! Congratulations on becoming an open source contributor. We hope it's the first of many.
 
 After you submit a contribution, one of the following will happen:
 
-### 😭 You don't get a response.
+### 😭 لم تردك إجابة
 
 Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
@@ -515,14 +526,14 @@ When someone requests changes, be responsive. They've taken the time to review y
 
 If you don't have time to work on the issue anymore (for example, if the conversation has been going on for months, and your circumstances have changed), let the maintainer know so they're not expecting a response. Someone else may be happy to take over.
 
-### 👎 Your contribution doesn't get accepted.
+### 👎 .مساهمتك لم تُقبل
 
 Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted.
+### 🎉 مساهمتك قُبلت
 
 Hooray! You've successfully made an open source contribution!
 
-## You did it!
+## فعلتها!
 
 Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
